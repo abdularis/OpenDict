@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/icon.png</file>
+        <file>text/credits.html</file>
+        <file>text/gpl-3.0.txt</file>
+    </qresource>
+</RCC>
